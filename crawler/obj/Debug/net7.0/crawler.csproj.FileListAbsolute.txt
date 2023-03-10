@@ -1,0 +1,15 @@
+C:\Users\borsu\OneDrive\Pulpit\PJATK Excels projects etc\Semester 6\ITNs\APBD\oldTuts\Tut1\crawler\crawler\bin\Debug\net7.0\crawler.exe
+C:\Users\borsu\OneDrive\Pulpit\PJATK Excels projects etc\Semester 6\ITNs\APBD\oldTuts\Tut1\crawler\crawler\bin\Debug\net7.0\crawler.deps.json
+C:\Users\borsu\OneDrive\Pulpit\PJATK Excels projects etc\Semester 6\ITNs\APBD\oldTuts\Tut1\crawler\crawler\bin\Debug\net7.0\crawler.runtimeconfig.json
+C:\Users\borsu\OneDrive\Pulpit\PJATK Excels projects etc\Semester 6\ITNs\APBD\oldTuts\Tut1\crawler\crawler\bin\Debug\net7.0\crawler.dll
+C:\Users\borsu\OneDrive\Pulpit\PJATK Excels projects etc\Semester 6\ITNs\APBD\oldTuts\Tut1\crawler\crawler\bin\Debug\net7.0\crawler.pdb
+C:\Users\borsu\OneDrive\Pulpit\PJATK Excels projects etc\Semester 6\ITNs\APBD\oldTuts\Tut1\crawler\crawler\obj\Debug\net7.0\crawler.csproj.AssemblyReference.cache
+C:\Users\borsu\OneDrive\Pulpit\PJATK Excels projects etc\Semester 6\ITNs\APBD\oldTuts\Tut1\crawler\crawler\obj\Debug\net7.0\crawler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borsu\OneDrive\Pulpit\PJATK Excels projects etc\Semester 6\ITNs\APBD\oldTuts\Tut1\crawler\crawler\obj\Debug\net7.0\crawler.AssemblyInfoInputs.cache
+C:\Users\borsu\OneDrive\Pulpit\PJATK Excels projects etc\Semester 6\ITNs\APBD\oldTuts\Tut1\crawler\crawler\obj\Debug\net7.0\crawler.AssemblyInfo.cs
+C:\Users\borsu\OneDrive\Pulpit\PJATK Excels projects etc\Semester 6\ITNs\APBD\oldTuts\Tut1\crawler\crawler\obj\Debug\net7.0\crawler.csproj.CoreCompileInputs.cache
+C:\Users\borsu\OneDrive\Pulpit\PJATK Excels projects etc\Semester 6\ITNs\APBD\oldTuts\Tut1\crawler\crawler\obj\Debug\net7.0\crawler.dll
+C:\Users\borsu\OneDrive\Pulpit\PJATK Excels projects etc\Semester 6\ITNs\APBD\oldTuts\Tut1\crawler\crawler\obj\Debug\net7.0\refint\crawler.dll
+C:\Users\borsu\OneDrive\Pulpit\PJATK Excels projects etc\Semester 6\ITNs\APBD\oldTuts\Tut1\crawler\crawler\obj\Debug\net7.0\crawler.pdb
+C:\Users\borsu\OneDrive\Pulpit\PJATK Excels projects etc\Semester 6\ITNs\APBD\oldTuts\Tut1\crawler\crawler\obj\Debug\net7.0\crawler.genruntimeconfig.cache
+C:\Users\borsu\OneDrive\Pulpit\PJATK Excels projects etc\Semester 6\ITNs\APBD\oldTuts\Tut1\crawler\crawler\obj\Debug\net7.0\ref\crawler.dll
